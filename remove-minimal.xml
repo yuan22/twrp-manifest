@@ -25,7 +25,6 @@
     <remove-project name="platform/external/brotli" />
     <remove-project name="platform/external/bsdiff" />
     <remove-project name="platform/external/caliper" />
-    <remove-project name="platform/external/c-ares" />
     <remove-project name="platform/external/cblas" />
     <remove-project name="platform/external/chromium-libpac" />
     <remove-project name="platform/external/chromium-trace" />
