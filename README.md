@@ -7,13 +7,13 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 To initialize your local repository using the OmniROM trees to build TWRP, use a command like this:
 
 ```sh
-repo init -u git://github.com/hejsekvojtech/twrp-manifest.git -b android-8.1
+repo init -u git://github.com/hejsekvojtech/twrp-manifest.git -b android-9.0
 ```
     
 To initialize a shallow clone, which will save even more space, use a command like this:
 
 ```sh
-repo init --depth=1 -u git://github.com/hejsekvojtech/twrp-manifest.git -b android-8.1
+repo init --depth=1 -u git://github.com/hejsekvojtech/twrp-manifest.git -b android-9.0
 ```
 
 Then to sync up:
